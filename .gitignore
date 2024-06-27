@@ -1,2 +1,7 @@
 /.quarto/
 /_site/
+.Rproj.user/
+.DS_Store
+data/
+doc/
+suwannee_hydro.Rproj
